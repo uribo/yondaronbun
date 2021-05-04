@@ -3,4 +3,4 @@
 
 @uribo がチェックした論文の内容について記録するためのリポジトリ。
 
-[bucky](https://github.com/uribo/bucky)を使い、issueに記録しています。
+[bucky](https://github.com/uribo/bucky)を使い、issueにコメントを残しています。
