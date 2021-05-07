@@ -81,8 +81,8 @@
       "RemoteUsername": "uribo",
       "RemoteRepo": "buckyR",
       "RemoteRef": "main",
-      "RemoteSha": "720199305c40c1be2d3fa7a3bc053a1c6483c3ff",
-      "Hash": "fbe82ac00841d58badf64f4c8373e981"
+      "RemoteSha": "c6eb7427b64eae53bacc58ce6a79f0b019831c64",
+      "Hash": "eb28fe19c21e11efd33c6c386495293a"
     },
     "cachem": {
       "Package": "cachem",
@@ -149,10 +149,10 @@
     },
     "dplyr": {
       "Package": "dplyr",
-      "Version": "1.0.5",
+      "Version": "1.0.6",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "d0d76c11ec807eb3f000eba4e3eb0f68"
+      "Hash": "19e84500b64bc7e589cb1e2550e25832"
     },
     "ellipsis": {
       "Package": "ellipsis",
@@ -261,10 +261,10 @@
     },
     "httpuv": {
       "Package": "httpuv",
-      "Version": "1.6.0",
+      "Version": "1.6.1",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "781248b864d00c390830504937fe5c29"
+      "Hash": "54344a78aae37bc6ef39b1240969df8e"
     },
     "httr": {
       "Package": "httr",
